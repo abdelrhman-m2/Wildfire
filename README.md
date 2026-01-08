@@ -1,7 +1,8 @@
 # 🔥 AI Wildfire Detection System
 
 Advanced deep learning application for real-time wildfire detection using satellite and aerial imagery.
-Data :https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset/data
+
+## Data :https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset/data
 ## ✨ Features
 
 - 🤖 **CNN-Based Detection**: Deep learning model for accurate wildfire identification
