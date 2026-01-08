@@ -1,10 +1,33 @@
-streamlit
-tensorflow
-keras
-numpy
-pillow
-matplotlib
-gdown
-requests
-sentinelhub
-earthengine-api
+# Core Framework
+streamlit==1.29.0
+
+# Machine Learning
+tensorflow==2.15.0
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Image Processing
+Pillow==10.1.0
+opencv-python-headless==4.8.1.78
+
+# Data Visualization
+matplotlib==3.8.2
+plotly==5.18.0
+pandas==2.1.4
+
+# Google Earth Engine (Satellite Imagery)
+earthengine-api==0.1.384
+
+# Mapping
+folium==0.15.1
+streamlit-folium==0.15.1
+
+# HTTP Requests
+requests==2.31.0
+
+# Additional utilities
+python-dateutil==2.8.2
+
+
+
+# ==============================================================================
