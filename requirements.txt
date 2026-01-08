@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+keras
+numpy
+pillow
+matplotlib
+gdown
+requests
+sentinelhub
+earthengine-api
